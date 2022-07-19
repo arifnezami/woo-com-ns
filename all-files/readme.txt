@@ -1,6 +1,5 @@
 === NetSuite Integration for WooCommerce ===
-Contributors: smgom
-Donate link: paypal.me/megautam
+
 Tags: NetSuite, WooCommerce NetSuite API Sync, NetSuite API, NetSuite order Sync, NetSuite order sync, woocommerce NetSuite Sync
 Requires at least: 4.6
 Tested up to: 5.6
